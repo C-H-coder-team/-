@@ -5,4 +5,4 @@
 
 -There is only 1 version, Python 3.
 
--This project is jointly developed by hxrlz.
+-This project is developed by hxrlz.
